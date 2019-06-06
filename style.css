@@ -1,0 +1,14 @@
+.hole {
+	background:brown;
+	width:200px;
+	height:100px;
+	margin-left:50px;
+	margin-top:200px;
+}
+.krot{
+	position: absolute;
+	width:150px;
+}
+.main{
+	display:flex;
+}
